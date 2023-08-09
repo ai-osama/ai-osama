@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Dileep Singh
+### Hi there 👋 my name is Muhammad Osama
  #### About Me 👋
 
 I am Mohammad Osama, I am an Engineering Graduate from Galgotias University Greater Noida Uttar Pradesh. In the past, I worked as a full-time employee as well as a freelance content developer (contractor) for various Ed-tech companies. During my work, I realized how important data is for a business to keep growing, and I discovered the role of a data analyst/ data scientist/data engineer in utilizing that data using Machine Learning and Artificial Intelligence. This got me excited about working in the field of data.
