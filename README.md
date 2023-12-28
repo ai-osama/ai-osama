@@ -15,7 +15,7 @@ I started learning the tools and skills required to be a successful data profess
 - 🔭 I’m currently working on Machine Learning Projects
 - 🌱 I’m currently learning SQL
 - 💬 Ask me about Python, SQL, and Machine Learning
-- 📫 How to reach me: mdosama.mech@gmail.com
+- 📫 How to reach me: email.mdosama@gmail.com
 <!--
 **github-osama/github-osama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
